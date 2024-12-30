@@ -3,7 +3,7 @@ This project contains a dashboard providing insights into over 130 000 Kindle bo
 
 The dataset was initially cleaned in Python and then additional changes were made in PowerQuery (like grouping genres, changing data types etc.)
 
-The data used for this project was taken from kaggle (The dataset used for this project is taken from Kaggle (https://www.kaggle.com/datasets/asaniczka/amazon-kindle-books-dataset-2023-130k-books).
+The data used for this project was taken from kaggle (https://www.kaggle.com/datasets/asaniczka/amazon-kindle-books-dataset-2023-130k-books).
 
 ![Preview](Dashboardimage.jpg)
 # Dashboard contents
